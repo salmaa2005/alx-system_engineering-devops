@@ -1,0 +1,2 @@
+#!/ban/bash
+export PATH="$PATH:/action"
