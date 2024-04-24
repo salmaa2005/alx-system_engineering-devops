@@ -1,4 +1,4 @@
-#!/usr/bin/pup
+#!/usr/bin/puppet
 # Install a specific version of flask (2.1.0)
 exec { 'pup-install-flask':
   command => '/usr/bin/apt-get -y install flask=2.1.0',
